@@ -1,23 +1,23 @@
 body {
-  background-color: #F6F6F6;
+  background-color: #00000059;
 }
 
 .btn-google {
-  background-color: #fff;
-  color: #7E98DF;
+  background-color: #7E98DF;
+  color: #fff;
   border-color: #7E98DF;
 }
 
 .btn-google:hover {
   background-color: #7E98DF;
-  color: #fff;
+  color: #2c2b2b;
   border-color: #7E98DF;
 }
 
 .auth {
   margin-top: 50px;
   margin-bottom: 50px;
-  background-color: #fff;
+  background-color: #2c2b2b;
   max-width: 450px;
   padding: 30px 40px 30px 40px;
   border-radius: 15px;
